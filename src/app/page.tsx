@@ -1,11 +1,5 @@
-'use client'
-
-import { Header } from '../components'
+import { TorusCanvas } from '../components/TorusCanvas';
 
 export default function Page() {
-  return (
-    <>
-      <Header />
-    </>
-  )
+  return <TorusCanvas />;
 }
