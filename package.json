@@ -13,6 +13,8 @@
     "@react-three/drei": "^9.80.3",
     "@react-three/fiber": "^8.13.7",
     "@types/three": "^0.155.0",
+    "@web3modal/ethereum": "^2.7.1",
+    "@web3modal/react": "^2.7.1",
     "connectkit": "^1.5.0",
     "next": "^13.4.10",
     "react": "^18.2.0",
